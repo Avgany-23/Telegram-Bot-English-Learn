@@ -25,6 +25,7 @@ def start_bot(message):
     """Главное меню бота"""
     # --- Сохранение пользователя в Базу Данных ---
     FuncBD().add_user(message.chat.id, message.from_user.first_name, message.from_user.username)
+    FuncBD().update_notif(message.chat.id, 'no')
     # --- Вывод главного меню бота ---
     Inline_Main_Menu(message.chat.id, bot)
 

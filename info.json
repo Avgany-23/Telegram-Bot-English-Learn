@@ -1,10 +1,10 @@
 {
      "postgreSQL": {
-          "bd": "",
-          "login": "",
-          "password": "",
-          "name_bd": "",
-          "create": false
+          "bd": "postgresql",
+          "login": "postgres",
+          "password": "1234",
+          "name_bd": "testbot",
+          "create": true
      },
-     "token_bot": ""
+     "token_bot": "7421066388:AAE1G3Xgf3YGPI28zGQIHO3mLoDadp9-xwM"
 }
