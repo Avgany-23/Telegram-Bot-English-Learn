@@ -1,0 +1,10 @@
+{
+     "postgreSQL": {
+          "bd": "",
+          "login": "",
+          "password": "",
+          "name_bd": "",
+          "create": false
+     },
+     "token_bot": ""
+}
