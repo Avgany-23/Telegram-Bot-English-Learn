@@ -140,7 +140,7 @@ _Функции скрипта:_
 
 **-10.1. Функция Inline_Main_Menu(chat_id, bot, show='send', id_mess=None)** - для Inline клавиатуры главного меню бота. Если show='send', значит клавиатура отправляется новым сообщеним, show='replace' - текущая клавиатура заменяется на клавиатуру с главным меню;
 
-**-10.2. Функция Inline_Learn_All_Words(id_user, bot, count, id_mess, repeat=False) ** - для Inline клавиатуры изучения слов. Если repeat = False, то слова берутся из общей Базы Данных слов - AllWords, если true - слова берутся для повторога из пользовательского списка (UserWord или FavoriteWordUser), count - количество слов;
+**-10.2. Функция Inline_Learn_All_Words(id_user, bot, count, id_mess, repeat=False)** - для Inline клавиатуры изучения слов. Если repeat = False, то слова берутся из общей Базы Данных слов - AllWords, если true - слова берутся для повторога из пользовательского списка (UserWord или FavoriteWordUser), count - количество слов;
 
 **-10.3. Функция Inline_Add_Words(id_user, bot, id_mess)** - для Inline клавиатуры добавленных слов, где пользователю предлагается выбрать свой список слов - Словарь или Избранное, а также загрузить слова на Яндекс диск;
 
