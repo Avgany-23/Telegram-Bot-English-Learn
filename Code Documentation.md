@@ -57,8 +57,8 @@ _Функции скрипта:_
   Данные таблицы (модели) представлены в виде классов при помощи библиотеки sqlalchemy (ORM).
 
 **Схема Базы данных представлена ниже:**
-![BDtgbot](https://github.com/Avgany-23/TgEnglishBot/assets/166257424/1e9af329-1ae6-40a5-a590-5d0b2db9d0dd)
 
+![image](https://github.com/user-attachments/assets/56f63e7b-92dc-4fed-8186-78805250618b)
 
 ### _7. Папка BaseData - Файл createBD.py:_
 Скрипт предназначен для создании Базы Данных
